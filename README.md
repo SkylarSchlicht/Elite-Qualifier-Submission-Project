@@ -27,10 +27,3 @@ This application runs on Python 3.8.2 (default, Feb 26 2020, 02:56:10) - Expects
 
 
 ### Any optional sections
-## Test Plan
-
-To test the project:
-
-1.  Run the test
-2.  Check the results
-3.  Submit test report
